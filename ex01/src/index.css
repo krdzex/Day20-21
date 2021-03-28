@@ -1,0 +1,59 @@
+#tastatura {
+    width: 600px;
+    height: 250px;
+    margin-left: 30%;
+}
+
+button {
+    float: left;
+    margin: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+#backSpace {
+    width: 100px;
+    height: 100px;
+}
+
+#space {
+    width: 450px;
+}
+
+#shift {
+    width: 150px;
+}
+
+#capsLock {
+    width: 150px;
+}
+
+#drugiRed {
+    float: left;
+    width: 500px;
+    height: 50px;
+    margin-top: -50px;
+    margin-right: 100px;
+}
+
+#ok {
+    width: 150px;
+}
+
+#enter {
+    width: 100%;
+}
+
+textarea {
+    margin-left: 30%;
+    width: 600px;
+    height: 300px;
+    background-color: rgb(240, 249, 252);
+    resize: none;
+}
+
+h2 {
+    text-align: center;
+}
